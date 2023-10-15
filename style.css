@@ -1,0 +1,7 @@
+mb-4{
+    padding-top: 50px;
+}
+
+row-cols-lg-3{
+    flex-direction: column;
+}
